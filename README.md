@@ -1,0 +1,2 @@
+# grandpashabet-giris-site
+grandpashabet
